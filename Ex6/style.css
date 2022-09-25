@@ -1,0 +1,27 @@
+.logo {
+    width: 250px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+body{
+    background-color: rgb(4, 0, 26);
+    text-align: center;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Telefone{
+    font-size: 20px;
+}
+.imagemlanches{
+    width: 100px;
+    border-radius: 10px;
+}
+.item{
+    margin: auto;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    width: 50%;
+}
+.valor{
+    color: rgb(3, 253, 3);
+}
